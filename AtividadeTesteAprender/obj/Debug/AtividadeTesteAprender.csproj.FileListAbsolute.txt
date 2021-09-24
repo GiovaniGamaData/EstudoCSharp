@@ -1,0 +1,6 @@
+C:\Users\giova\source\repos\AprendendoCSharp\AtividadeTesteAprender\bin\Debug\AtividadeTesteAprender.exe.config
+C:\Users\giova\source\repos\AprendendoCSharp\AtividadeTesteAprender\bin\Debug\AtividadeTesteAprender.exe
+C:\Users\giova\source\repos\AprendendoCSharp\AtividadeTesteAprender\bin\Debug\AtividadeTesteAprender.pdb
+C:\Users\giova\source\repos\AprendendoCSharp\AtividadeTesteAprender\obj\Debug\AtividadeTesteAprender.csproj.CoreCompileInputs.cache
+C:\Users\giova\source\repos\AprendendoCSharp\AtividadeTesteAprender\obj\Debug\AtividadeTesteAprender.exe
+C:\Users\giova\source\repos\AprendendoCSharp\AtividadeTesteAprender\obj\Debug\AtividadeTesteAprender.pdb

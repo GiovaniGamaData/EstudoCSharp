@@ -1,0 +1,7 @@
+C:\Users\giova\source\repos\AprendendoCSharp\AtividadeParaPraticar\bin\Debug\AtividadeParaPraticar.exe.config
+C:\Users\giova\source\repos\AprendendoCSharp\AtividadeParaPraticar\bin\Debug\AtividadeParaPraticar.exe
+C:\Users\giova\source\repos\AprendendoCSharp\AtividadeParaPraticar\bin\Debug\AtividadeParaPraticar.pdb
+C:\Users\giova\source\repos\AprendendoCSharp\AtividadeParaPraticar\obj\Debug\AtividadeParaPraticar.csproj.AssemblyReference.cache
+C:\Users\giova\source\repos\AprendendoCSharp\AtividadeParaPraticar\obj\Debug\AtividadeParaPraticar.csproj.CoreCompileInputs.cache
+C:\Users\giova\source\repos\AprendendoCSharp\AtividadeParaPraticar\obj\Debug\AtividadeParaPraticar.exe
+C:\Users\giova\source\repos\AprendendoCSharp\AtividadeParaPraticar\obj\Debug\AtividadeParaPraticar.pdb

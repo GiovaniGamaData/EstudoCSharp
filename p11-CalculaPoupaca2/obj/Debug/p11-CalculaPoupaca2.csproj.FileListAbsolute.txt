@@ -1,0 +1,6 @@
+C:\Users\giova\source\repos\AprendendoCSharp\p11-CalculaPoupaca2\bin\Debug\p11-CalculaPoupaca2.exe.config
+C:\Users\giova\source\repos\AprendendoCSharp\p11-CalculaPoupaca2\bin\Debug\p11-CalculaPoupaca2.exe
+C:\Users\giova\source\repos\AprendendoCSharp\p11-CalculaPoupaca2\bin\Debug\p11-CalculaPoupaca2.pdb
+C:\Users\giova\source\repos\AprendendoCSharp\p11-CalculaPoupaca2\obj\Debug\p11-CalculaPoupaca2.csproj.CoreCompileInputs.cache
+C:\Users\giova\source\repos\AprendendoCSharp\p11-CalculaPoupaca2\obj\Debug\p11-CalculaPoupaca2.exe
+C:\Users\giova\source\repos\AprendendoCSharp\p11-CalculaPoupaca2\obj\Debug\p11-CalculaPoupaca2.pdb

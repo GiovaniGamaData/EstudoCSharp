@@ -1,0 +1,7 @@
+C:\Users\giova\source\repos\AprendendoCSharp\AtividadeMultiplos\bin\Debug\AtividadeMultiplos.exe.config
+C:\Users\giova\source\repos\AprendendoCSharp\AtividadeMultiplos\bin\Debug\AtividadeMultiplos.exe
+C:\Users\giova\source\repos\AprendendoCSharp\AtividadeMultiplos\bin\Debug\AtividadeMultiplos.pdb
+C:\Users\giova\source\repos\AprendendoCSharp\AtividadeMultiplos\obj\Debug\AtividadeMultiplos.csproj.CoreCompileInputs.cache
+C:\Users\giova\source\repos\AprendendoCSharp\AtividadeMultiplos\obj\Debug\AtividadeMultiplos.exe
+C:\Users\giova\source\repos\AprendendoCSharp\AtividadeMultiplos\obj\Debug\AtividadeMultiplos.pdb
+C:\Users\giova\source\repos\AprendendoCSharp\AtividadeMultiplos\obj\Debug\AtividadeMultiplos.csproj.AssemblyReference.cache
